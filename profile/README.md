@@ -1,1 +1,2 @@
-# Regardless of [Platform/OS/Device]
+### Perfect connection.
+### Regardless of [Device/OS/Platform]
